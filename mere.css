@@ -1,0 +1,33 @@
+body{background-color:LightGray;}
+h5{color:Tomato;
+text-align: center;}
+h1{color:DodgerBlue;
+text-align: center;
+font-family:"Times New Roman";
+font-style:italic;
+font-size:28px}
+th{color:MediumSeaGreen}
+td{color:SlateBlue;
+text-align: center;}
+li{color:Orange;}
+td{border-style: ridge;}
+li{font-family:"Times New Roman"
+font-style:italic;
+font-size:20px;
+text-align: center;}
+th{font-family:"Arial";
+font-stretch:border;
+font-size:20px}
+h5{font-family:"Times New Roman"
+font-style:bolder;
+font-size:20px}
+td{font-family:"Arial";
+font-style:italic;
+font-size:18px;}
+img
+{border-radius:30px;
+ background:50%;
+ width: 300px;
+ opacity:0.5;
+ align:center;
+ }
